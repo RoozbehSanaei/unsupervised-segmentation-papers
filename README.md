@@ -8,3 +8,7 @@ A curated list of awesome Unsupervised Segmentation research papers and some cod
 [WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Durand_WILDCAT_Weakly_Supervised_CVPR_2017_paper.pdf)
 
 [Weakly Supervised Instance Segmentation using Class Peak Response](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf)
+
+[Multiscale Combinatorial Grouping](http://openaccess.thecvf.com/content_cvpr_2014/papers/Arbelaez_Multiscale_Combinatorial_Grouping_2014_CVPR_paper.pdf)
+
+[SceneCut: Joint Geometric and Object Segmentation for Indoor Scenes](https://arxiv.org/pdf/1709.07158.pdf)
