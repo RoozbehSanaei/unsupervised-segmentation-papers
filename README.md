@@ -12,3 +12,5 @@ A curated list of awesome Unsupervised Segmentation research papers and some cod
 [Multiscale Combinatorial Grouping](http://openaccess.thecvf.com/content_cvpr_2014/papers/Arbelaez_Multiscale_Combinatorial_Grouping_2014_CVPR_paper.pdf)
 
 [SceneCut: Joint Geometric and Object Segmentation for Indoor Scenes](https://arxiv.org/pdf/1709.07158.pdf)
+
+[Indoor Segmentation and Support Inference from RGBD Images](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.260.516&rep=rep1&type=pdf)
