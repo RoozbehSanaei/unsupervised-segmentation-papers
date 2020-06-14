@@ -1,4 +1,4 @@
-# Weakly-Supervised Segmentation
+# Weakly-Supervised Segmentation Papers
 A curated list of unsupervised Segmentation research papers and some codes
 
 [Unsupervised Image Segmentation by Backpropagation](https://kanezaki.github.io/pytorch-unsupervised-segmentation/ICASSP2018_kanezaki.pdf)
